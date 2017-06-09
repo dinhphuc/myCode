@@ -1,0 +1,16 @@
+﻿Build started 27/12/2016 5:25:47 CH.
+     1>Project "C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai4-6-8\Bai4-6-8\Bai4-6-8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bai468LKkep.cpp
+         Bai468LKkep.cpp
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thicuoki\bai4-6-8\bai4-6-8\bai468lkkep.cpp(10): warning C4091: 'typedef ' : ignored on left of 'Node' when no variable is declared
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thicuoki\bai4-6-8\bai4-6-8\bai468lkkep.cpp(15): warning C4091: 'typedef ' : ignored on left of 'List' when no variable is declared
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thicuoki\bai4-6-8\bai4-6-8\bai468lkkep.cpp(48): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai4-6-8\Debug\Bai4-6-8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai4-6-8\Debug\Bai4-6-8.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai4-6-8\Debug\Bai4-6-8.lib" /MACHINE:X86 Debug\Bai468LKkep.obj
+         Bai4-6-8.vcxproj -> C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai4-6-8\Debug\Bai4-6-8.exe
+     1>Done Building Project "C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai4-6-8\Bai4-6-8\Bai4-6-8.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75

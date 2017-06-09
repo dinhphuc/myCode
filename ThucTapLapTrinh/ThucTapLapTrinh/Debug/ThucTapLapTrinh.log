@@ -1,0 +1,32 @@
+﻿Build started 23/03/2017 8:50:26 SA.
+     1>Project "C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThucTapLapTrinh\ThucTapLapTrinh\ThucTapLapTrinh.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt In_DSSV.cpp
+         In_DSSV.cpp
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(16): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(17): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(18): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(19): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(20): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(21): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(22): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(23): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(24): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(325): warning C4244: 'argument' : conversion from 'double' to 'size_t', possible loss of data
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(340): warning C4244: 'argument' : conversion from 'double' to 'size_t', possible loss of data
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thuctaplaptrinh\thuctaplaptrinh\in_dssv.cpp(368): warning C4244: 'argument' : conversion from 'double' to 'size_t', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThucTapLapTrinh\Debug\ThucTapLapTrinh.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThucTapLapTrinh\Debug\ThucTapLapTrinh.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThucTapLapTrinh\Debug\ThucTapLapTrinh.lib" /MACHINE:X86 Debug\console.obj
+         Debug\FixErr.obj
+         Debug\In_DSSV.obj
+         Debug\main.obj
+         Debug\SapXep.obj
+         Debug\ThemMoi_HS.obj
+         Debug\ThongKe.obj
+         Debug\TimKiem.obj
+         ThucTapLapTrinh.vcxproj -> C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThucTapLapTrinh\Debug\ThucTapLapTrinh.exe
+     1>Done Building Project "C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThucTapLapTrinh\ThucTapLapTrinh\ThucTapLapTrinh.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.97

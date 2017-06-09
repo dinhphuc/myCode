@@ -1,0 +1,14 @@
+﻿Build started 08/09/2016 7:28:47 CH.
+     1>Project "c:\Users\PhucBinz\documents\visual studio 2013\Projects\baitap\baitap\baitap.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\baitap\baitap\source.cpp(7): warning C4566: character represented by universal-character-name '\u2665' cannot be represented in the current code page (1258)
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\baitap\baitap\source.cpp(7): error C2001: newline in constant
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\baitap\baitap\source.cpp(8): error C2146: syntax error : missing ')' before identifier '__________♥♥♥♥♥♥♥♥♥♥♥♥♥__________'
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\baitap\baitap\source.cpp(48): error C2001: newline in constant
+     1>Done Building Project "c:\Users\PhucBinz\documents\visual studio 2013\Projects\baitap\baitap\baitap.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33

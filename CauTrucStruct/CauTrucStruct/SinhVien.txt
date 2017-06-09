@@ -1,0 +1,6 @@
+
+        ---------DANH SACH SINH VIEN----------
+
+Ho Ten                         Que Quan             Gioi Tinh            Toan       ly         Hoa        DiemTB
+   
+zz                             zz                   zz         8.0        7.0        8.0        7.7       

@@ -1,0 +1,23 @@
+﻿Build started 11/02/2017 4:36:41 CH.
+     1>Project "D:\Tài Liệu\Visual Studio 2013\Projects\testDelay\testDelay\testDelay.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt delay.cpp
+         delay.cpp
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(60): warning C4101: 'c' : unreferenced local variable
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(84): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(85): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(86): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(87): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(88): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(89): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(90): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(91): warning C4309: 'initializing' : truncation of constant value
+     1>d:\tài liệu\visual studio 2013\projects\testdelay\testdelay\delay.cpp(92): warning C4309: 'initializing' : truncation of constant value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Tài Liệu\Visual Studio 2013\Projects\testDelay\Debug\testDelay.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Tài Liệu\Visual Studio 2013\Projects\testDelay\Debug\testDelay.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Tài Liệu\Visual Studio 2013\Projects\testDelay\Debug\testDelay.lib" /MACHINE:X86 Debug\delay.obj
+         testDelay.vcxproj -> D:\Tài Liệu\Visual Studio 2013\Projects\testDelay\Debug\testDelay.exe
+     1>Done Building Project "D:\Tài Liệu\Visual Studio 2013\Projects\testDelay\testDelay\testDelay.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.53

@@ -1,0 +1,12 @@
+﻿Build started 11/09/2016 12:19:15 SA.
+     1>Project "c:\Users\PhucBinz\documents\visual studio 2013\Projects\ChayChu\ChayChu\ChayChu.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChayChu.cpp
+         ChayChu.cpp
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\chaychu\chaychu\chaychu.cpp(12): error C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>Done Building Project "c:\Users\PhucBinz\documents\visual studio 2013\Projects\ChayChu\ChayChu\ChayChu.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31

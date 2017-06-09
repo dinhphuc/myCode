@@ -1,0 +1,12 @@
+﻿Build started 09/09/2016 11:12:29 CH.
+     1>Project "c:\Users\PhucBinz\documents\visual studio 2013\Projects\DocSoNguyen\VeTamGiac\VeTamGiac.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VeTamGiac.cpp
+         VeTamGiac.cpp
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\docsonguyen\vetamgiac\vetamgiac.cpp(5): error C3861: 'printf': identifier not found
+     1>c:\users\phucbinz\documents\visual studio 2013\projects\docsonguyen\vetamgiac\vetamgiac.cpp(9): error C3861: 'printf': identifier not found
+     1>Done Building Project "c:\Users\PhucBinz\documents\visual studio 2013\Projects\DocSoNguyen\VeTamGiac\VeTamGiac.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.90

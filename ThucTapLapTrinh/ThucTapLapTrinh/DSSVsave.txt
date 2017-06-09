@@ -1,0 +1,15 @@
+1. Ma lop:	1515011 1
+2. MaSV:	15150178
+3. Ho va Ten:	Ngo Dinh Phuc
+4. Ngay Sinh:	18/08/1997
+5. Diem Trung Binh:	10.0000 
+1. Ma lop:	1515011 1
+2. MaSV:	15150178
+3. Ho va Ten:	Le Dung
+4. Ngay Sinh:	13/02/1997
+5. Diem Trung Binh:	10.0000
+1. Ma lop:	1515011 1
+2. MaSV:	15150178
+3. Ho va Ten:	HoangTuan Vu
+4. Ngay Sinh:	18/08/1997
+5. Diem Trung Binh:	10.0000

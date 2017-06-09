@@ -1,0 +1,14 @@
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.vbproj.ResolveComReference.cache
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.Form1.resources
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.Resources.resources
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.vbproj.GenerateResource.Cache
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\bin\Debug\Funy.exe
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\bin\Debug\Funy.pdb
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\bin\Debug\Funy.xml
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.exe
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.xml
+C:\Users\PhucBinz\Documents\Visual Studio 2013\Projects\Funy\Funy\obj\Debug\Funy.pdb

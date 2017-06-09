@@ -1,0 +1,14 @@
+﻿Build started 28/12/2016 12:59:39 SA.
+     1>Project "C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai11\Bai11\Bai11.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\phuc binz\documents\visual studio 2013\projects\thicuoki\bai11\bai11\source.cpp(51): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai11\Debug\Bai11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai11\Debug\Bai11.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai11\Debug\Bai11.lib" /MACHINE:X86 Debug\Source.obj
+         Bai11.vcxproj -> C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai11\Debug\Bai11.exe
+     1>Done Building Project "C:\Users\Phuc Binz\Documents\Visual Studio 2013\Projects\ThiCuoKi\Bai11\Bai11\Bai11.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.76
